@@ -54,8 +54,10 @@ Para actualizar la IP del broker publico, se recomienda el siguiente comando nsl
 Para que multiples graficas sean mostradas en la sección de Histórico Público, es necesario que multiples usuarios se encuentren publicando a la vez.
 # Resultados
 A continuación puedes ver los nodos del flow. 
+![Captura de pantalla de 2022-09-01 10-05-52](https://user-images.githubusercontent.com/111372187/188636505-62da46ed-4126-4dff-ab77-038174c740a3.png)
 
 A continuación puede ver el tablero resultante. 
+![Captura de pantalla de 2022-09-01 11-43-30](https://user-images.githubusercontent.com/111372187/188636540-5cbb8e5d-45aa-4137-ae57-f27ab1fc9a75.png)
 
 # Evidencias
 https://youtu.be/aDlTqSABwro
